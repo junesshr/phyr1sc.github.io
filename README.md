@@ -1,7 +1,7 @@
 ---
 home: true
 icon: home
-title: PojavLauncher
+title: PojavLaunch
 heroImage: /logo.png
 heroText: PojavLauncher
 tagline: A flexible, fast and open-source Minecraft Java Edition launcher for Android and iOS
