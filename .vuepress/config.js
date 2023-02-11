@@ -11,12 +11,12 @@ module.exports = {
     head: [
 		['meta', {
 			name: 'theme-color',
-			content: '#ffffff',
+			content: '#ffdce9',
 			media: '(prefers-color-scheme: light)'
 		}],
 		['meta', {
 			name: 'theme-color',
-			content: '#25262b',
+			content: '#6f5964',
 			media: '(prefers-color-scheme: dark)'
 		}],
         ['meta', {
