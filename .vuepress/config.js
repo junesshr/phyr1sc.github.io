@@ -6,8 +6,8 @@ const { sidebar } = vuepressBar({
 });
 
 module.exports = {
-    title: 'PojavLauncher',
-	description: 'A flexible, fast and open-source Minecraft Java Edition launcher for Android and iOS',
+    title: 'KRIS where the FUCK are we!?',
+	description: 'Not a blog, not a website, just wasting your internet data. \;P',
     head: [
 		['meta', {
 			name: 'theme-color',
