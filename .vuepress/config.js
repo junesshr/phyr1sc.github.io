@@ -6,7 +6,7 @@ const { sidebar } = vuepressBar({
 });
 
 module.exports = {
-    title: 'phyr1sc's billboard',
+    title: 'phyr1sc\'s billboard',
 	description: 'Royalty-free Geneva Convention.',
     head: [
 		['meta', {
