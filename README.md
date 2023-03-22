@@ -1,7 +1,7 @@
 ---
 home: true
 icon: home
-title: PojavLaunch
+title: start
 heroImage: /logo.png
 heroText: phyr1sc's billboard
 tagline: blog site filled with randomness
