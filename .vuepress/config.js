@@ -6,8 +6,8 @@ const { sidebar } = vuepressBar({
 });
 
 module.exports = {
-    title: 'KRIS where the FUCK are we!?',
-	description: 'Not a blog, not a website, just wasting your internet data. \;P',
+    title: 'phyr1sc's billboard',
+	description: 'Royalty-free Geneva Convention.',
     head: [
 		['meta', {
 			name: 'theme-color',
